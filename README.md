@@ -20,3 +20,9 @@ Pre processing yang digunakan dalam project ini yaitu ekstrak file, split data, 
 
 ### Modeling
 Modeling yang digunakan dalam project ini adalah model augmentasi, MaxPooling2D, AveragePooling2D, Hyperparameter, GlobalAveragePooling2D, Flatten,BatchNormalization, Dropout
+
+## Overview Dataset
+Jumlah dan persentase splitting dataset : 
+train (persentase, jumlah data train)
+validation (persentase, jumlah data validation)
+test (persentase, jumlah data test)
